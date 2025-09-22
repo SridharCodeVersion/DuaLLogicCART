@@ -100,7 +100,7 @@ def main():
         if st.button("🔄", key="refresh_all", help="Reset All Selections"):
             reset_all_selections()
     
-    st.title("🧬 CAR-T Design Tool for PDAC")
+    st.title("🧬 ImmunoGate: Dual Logic CAR-T CELL THERAPY for PDAC ")
     st.markdown("### Dual-Logic CAR-T Strategy Designer for Pancreatic Ductal Adenocarcinoma")
     
     # Ethics disclaimer
