@@ -12,7 +12,7 @@ from visualizations import TruthTableVisualizer
 
 # Set page configuration
 st.set_page_config(
-    page_title="CAR-T Design Tool for PDAC",
+    page_title="ImmunoGate: Dual Logic CAR-T CELL THERAPY for PDAC",
     page_icon="🧬",
     layout="wide",
     initial_sidebar_state="expanded"
